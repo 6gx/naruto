@@ -424,7 +424,7 @@ body::before {
 	z-index: -1;
 }
 .sidebar-2K8pFh .bar-30k2ka:not(.mention-1f5kbO)::after {
-	background-color: rgba(var(--transparencycolor), calc(var(--transparencyalpha) + var(--guildchanneltransparency) * 0.85 + 0.1));
+	background-color: rgba(var(--fontwhite5), calc(var(--transparencyalpha) + var(--guildchanneltransparency) * 0.85 + 0.1));
 }
 .wrapper-3NnKdC .bar-30k2ka:not(.mention-1f5kbO)::after {
 	background-color: rgba(var(--transparencycolor), calc(var(--transparencyalpha) + var(--guildchanneltransparency) * 1.9 + 0.1));
