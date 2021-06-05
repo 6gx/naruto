@@ -1692,6 +1692,10 @@ body::before {
 	background-color: rgba(var(--transparencycolor), 0.4);
 }
 
+.premiumIcon-1rDbWQ {
+	color: #ff73fa;
+}
+
 /* ----		6.6.	SEARCHPAGE						---- */
 
 .searchResultsWrap-3-pOjs {									/* searchpage			container							*/
