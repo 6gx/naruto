@@ -2817,6 +2817,10 @@ body::before {
     color: rebeccapurple;
 }
 
+.serverBoostTabItem-2hFTIN[aria-selected=false] {
+	color: #ff73fa !important;
+}
+
 /* ~~~~		12.		GUILDSETTINGS					~~~~ */
 
 .container-2VW0UT {											/* settings				confirmnotice						*/
