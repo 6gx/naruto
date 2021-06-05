@@ -1692,10 +1692,6 @@ body::before {
 	background-color: rgba(var(--transparencycolor), 0.4);
 }
 
-.premiumIcon-1rDbWQ {
-	color: #ff73fa;
-}
-
 /* ----		6.6.	SEARCHPAGE						---- */
 
 .searchResultsWrap-3-pOjs {									/* searchpage			container							*/
@@ -2815,22 +2811,6 @@ body::before {
 }
 .colorMuted-HdFt4q {									/* experiments	   name_date          and          client & os details				*/
     color: rebeccapurple;
-}
-
-.item-PXvHYJ:not(.selected-3s45Ha)[aria-controls="Nitro Server Boost-tab"],
-.item-PXvHYJ:not(.selected-3s45Ha)[aria-controls="Nitro-Server-Boost-tab"],
-.serverBoostTabItem-2hFTIN[aria-selected=false] {
-	color: rgb(255,115,250) !important;
-}
-.item-PXvHYJ:hover[aria-controls="Nitro Server Boost-tab"],
-.item-PXvHYJ:hover[aria-controls="Nitro-Server-Boost-tab"],
-.serverBoostTabItem-2hFTIN[aria-selected=false]:hover {
-	background-color: rgba(255,115,250,0.1) !important;
-}
-.item-PXvHYJ.selected-3s45Ha[aria-controls="Nitro Server Boost-tab"],
-.item-PXvHYJ.selected-3s45Ha[aria-controls="Nitro-Server-Boost-tab"],
-.serverBoostTabItem-2hFTIN[aria-selected=true] {
-	background-color: rgb(255,115,250) !important;
 }
 
 /* ~~~~		12.		GUILDSETTINGS					~~~~ */
