@@ -20,7 +20,7 @@ git clone https://github.com/6gx/naruto
 
 ## BetterDiscord
 ### ___Using Snippet (recommended)___
-- Paste this snippet `@import url(https://6gx.github.io/naruto/naruto.css);` in your custom css.
+- Paste this snippet `@import url(https://6gx.github.io/naruto/naruto.theme.css);` in your custom css.
 #### ____OR____
 - Visit [this](https://raw.githubusercontent.com/6gx/naruto/main/naruto.theme.css) url.
 - Press <kbd>Ctrl</kbd> + <kbd>S</kbd> (Windows) or <kbd>Cmd</kbd> + <kbd>S</kbd> (Mac OS).
