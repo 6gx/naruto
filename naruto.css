@@ -2817,8 +2817,20 @@ body::before {
     color: rebeccapurple;
 }
 
+.item-PXvHYJ:not(.selected-3s45Ha)[aria-controls="Nitro Server Boost-tab"],
+.item-PXvHYJ:not(.selected-3s45Ha)[aria-controls="Nitro-Server-Boost-tab"],
 .serverBoostTabItem-2hFTIN[aria-selected=false] {
-	color: #ff73fa !important;
+	color: rgb(255,115,250) !important;
+}
+.item-PXvHYJ:hover[aria-controls="Nitro Server Boost-tab"],
+.item-PXvHYJ:hover[aria-controls="Nitro-Server-Boost-tab"],
+.serverBoostTabItem-2hFTIN[aria-selected=false]:hover {
+	background-color: rgba(255,115,250,0.1) !important;
+}
+.item-PXvHYJ.selected-3s45Ha[aria-controls="Nitro Server Boost-tab"],
+.item-PXvHYJ.selected-3s45Ha[aria-controls="Nitro-Server-Boost-tab"],
+.serverBoostTabItem-2hFTIN[aria-selected=true] {
+	background-color: rgb(255,115,250) !important;
 }
 
 /* ~~~~		12.		GUILDSETTINGS					~~~~ */
