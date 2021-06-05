@@ -1040,6 +1040,7 @@ body::before {
 #app-mount .repliedMessage-VokQwo::after,
 #app-mount .spine-1UneWn::after {
 	border-color: rgba(var(--fontwhite2), calc(0.5 * (1 - var(--usechatbubbles))));
+	border-color: #a70fde;
 }
 #app-mount .compact-T3H92H .repliedMessage-VokQwo::before,
 #app-mount .compact-T3H92H .spine-1UneWn::before {
@@ -1078,7 +1079,7 @@ body::before {
 .cozy-3raOZG .timestamp-3ZCmNB {
     font-size: 0.75rem;
     line-height: 1.375rem;
-    color: rgba(255, 64, 93, 1);
+    color: rgba(231, 50, 77, 1);
     vertical-align: baseline;
 }
 .cozy-3raOZG .iconContainer-3GkGRf {
