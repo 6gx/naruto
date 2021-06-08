@@ -4848,7 +4848,7 @@ uploadModal-2ifh8j .checkbox-1ix_J3.checked-3_4uQ9 {
 .container-1S6Mlq {											/* contextmenu			searchbar							*/
 	background-color: rgba(var(--transparencycolor), 0.2);
 }
-.colorDefault-2K3EoJ:not(.colorDanger-2qLCe1):not(.colorBrand-ROmMP1) {			/*	item								*/
+.colorDefault-2K3EoJ:not(.colorDanger-2qLCe1):not(.colorBrand-ROmMP1):not(.colorPremium-p4p7qO) {			/*	item								*/
 	color: rgb(var(--fontwhite2));
 }
 .item-1tOPte.colorDefault-2K3EoJ.focused-3afm-j,
