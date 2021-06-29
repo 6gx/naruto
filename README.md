@@ -28,4 +28,4 @@ git clone https://github.com/6gx/naruto
 
 # Credit
 - Basically, I skidded some codes of [mwittrien](https://github.com/mwittrien) to make a cool background theme for naruto anime.
-- So, the credit goes to me [6gx](https://github.com/mwittrien/6gx) and [mwittrien](https://github.com/mwittrien).
+- So, the credit goes to me [6gx](https://github.com/6gx) and [mwittrien](https://github.com/mwittrien).
