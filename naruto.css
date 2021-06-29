@@ -673,10 +673,10 @@ body::before {
 	color: rgb(var(--fontwhite2));
 }
 .channel-2QD9_O .name-uJV0GL {
-	color: #e86ae5;
+	color: rgb(28,178,159);
 }
 .channel-2QD9_O .subtext-1RtU34 {
-	color: rgb(var(--fontwhite3));
+	color: #d25abe;
 }
 .channel-2QD9_O:hover .linkButtonIcon-Mlm5d6,
 .channel-2QD9_O.selected-aXhQR6 .linkButtonIcon-Mlm5d6 {
