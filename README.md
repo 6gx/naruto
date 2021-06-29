@@ -1,10 +1,10 @@
 # naruto theme [![CodeFactor](https://www.codefactor.io/repository/github/6gx/naruto/badge)](https://www.codefactor.io/repository/github/6gx/naruto) [![GitHub issues](https://img.shields.io/github/issues/6gx/naruto?style=flat)](https://github.com/6gx/naruto/issues) [![GitHub stars](https://img.shields.io/github/stars/6gx/naruto?style=flat)](https://github.com/6gx/naruto/stargazers)
-- A theme for users who loves Jujutsu-Kaisen anime.
+- A theme for users who loves Naruto anime.
 
 # Preview
 
 # Description
-- A cool and awesome theme for users who loves Jujutsu-Kaisen anime.
+- A cool and awesome theme for users who loves Naruto anime.
 - It allows you to use a Background Image without changing the basic layout of Discord.
 
 # Installation Methods
