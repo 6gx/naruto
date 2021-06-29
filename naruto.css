@@ -8362,7 +8362,7 @@ html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.typeWindows-
 	animation: unset !important;
 }
 html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.typeWindows-1za-n7.titleBar-AC4pGV.horizontalReverse-3tRjY7.flex-1O1GKY.directionRowReverse-m8IjIq.justifyStart-2NDFzi.alignStretch-DpGPf3 > div.wordmark-2iDDfm::after {
-	content:  url(https://media.discordapp.net/attachments/819228300165120023/820376732678356992/unknown.png) !important;
+	content:  url(https://media.discordapp.net/attachments/859422172401762338/859425398432333864/unknown.png) !important;
 	display: inline !important;
 	position: absolute !important;
 	top: unset !important;
@@ -8396,9 +8396,9 @@ html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.app-1q1i1E >
 }
 
 html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.app-1q1i1E > div.app-2rEoOp > div.layers-3iHuyZ.layers-3q14ss > div.layer-3QrUeG.baseLayer-35bLyl + div.layer-3QrUeG > div.standardSidebarView-3F1I7i > div.sidebarRegion-VFTUkN > div.sidebarRegionScroller-3MXcoP.thin-1ybCId.scrollerBase-289Jih.fade-2kXiP2 > nav.sidebar-CFHs9e > div.side-8zPYf6 > div.info-1VyQPT::after {
-	content: "naruto theme made by" !important;
+	content: "Naruto Theme By" !important;
 	font-size: 12px !important;
-	color: var(--text-muted) !important;
+	color: rgb(var(--fontwhite5)) !important;
 	cursor: pointer !important;
 	display: inline !important;
 	opacity: 1 !important;
