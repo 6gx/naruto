@@ -8,7 +8,7 @@
 
 /* To change stuff like the colors, transparency and background image, change the variables inside the root {}, do NOT change the @import url() */
 
-@import url(https://6gx.github.io/naruto/naruto.css);
+@import url(https://raw.githack.com/6gx/naruto/main/naruto.theme.css);
 :root {
 	--transparencycolor:				0,0,0;						/* default:	0,0,0																								*/
 	--transparencyalpha:				0.15;						/* default: 0.15				(general darkness of the app)													*/
