@@ -7,7 +7,7 @@ A theme for users who loves Naruto anime.
 - Snippet: `@import url(https://raw.githack.com/6gx/naruto/main/naruto.css);` > Themes > QuickCSS
 
 # BetterDiscord
-- Download: Visit [this](https://raw.githubusercontent.com/6gx/naruto/main/naruto.theme.css), Press <kbd>Ctrl</kbd> + <kbd>S</kbd> (Windows) or <kbd>Cmd</kbd> + <kbd>S</kbd> (Mac OS) and go to your BetterDiscord theme folder
+- Download: Visit [this](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/6gx/naruto/main/naruto.css), and move to your BetterDiscord theme folder
 - Snippet: `@import url(https://raw.githack.com/6gx/naruto/main/naruto.css);` > Themes > CustomCSS
 
 # Previews
