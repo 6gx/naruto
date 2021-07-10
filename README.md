@@ -1,4 +1,4 @@
-# Discord Revamp [![GitHub issues](https://img.shields.io/github/issues/6gx/naruto?style=flat)](https://github.com/6gx/naruto/issues) [![GitHub stars](https://img.shields.io/github/stars/6gx/naruto?style=flat)](https://github.com/6gx/naruto/stargazers)
+# Discord Revamp [![GitHub issues](https://img.shields.io/github/issues/6gx/naruto?style=flat)](https://github.com/6gx/naruto/issues)[![GitHub stars](https://img.shields.io/github/stars/6gx/naruto?style=flat)](https://github.com/6gx/naruto/stargazers)
 A theme for users who loves Naruto anime.
 
 
@@ -7,7 +7,7 @@ A theme for users who loves Naruto anime.
 - Snippet: `@import url(https://raw.githack.com/6gx/naruto/main/naruto.css);` > Themes > QuickCSS
 
 # BetterDiscord
-- Download: Visit [this](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/6gx/naruto/main/naruto.css), and move to your BetterDiscord theme folder
+- Download: Visit [this](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/6gx/naruto/main/naruto.theme.css), and move to your BetterDiscord theme folder
 - Snippet: `@import url(https://raw.githack.com/6gx/naruto/main/naruto.css);` > Themes > CustomCSS
 
 # Previews
