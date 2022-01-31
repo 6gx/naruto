@@ -651,45 +651,45 @@ body::before {
 
 /* ----		5.3.	DMCHANNELS						---- */
 
-.channel-2QD9_O {											/* dmchannel/page		container						*/
+.channel-1Shao0 {											/* dmchannel/page		container						*/
 	color: rgb(var(--fontwhite3));
 }
-.clickable-1JJAn8.channel-2QD9_O:hover {
+.clickable-1JJAn8.channel-1Shao0:hover {
 	color: rgb(var(--fontwhite2));
 }
-.clickable-1JJAn8.channel-2QD9_O:active,
-.selected-aXhQR6.channel-2QD9_O {
+.clickable-1JJAn8.channel-1Shao0:active,
+.selected-aXhQR6.channel-1Shao0 {
 	color: rgb(var(--fontwhite1));
 }
-.channel-2QD9_O:hover .layout-2DM8Md {						/* dmchannel/page		inner							*/
+.channel-1Shao0:hover .layout-1qmrhw {						/* dmchannel/page		inner							*/
 	background-color: rgba(var(--transparencycolor), 0.2);
 }
-.selected-aXhQR6.channel-2QD9_O .layout-2DM8Md {
+.selected-aXhQR6.channel-1Shao0 .layout-1qmrhw {
 	background-color: rgb(var(--accentcolor));
 	text-shadow: 1px 1px var(--textshadow);
 }
-.selected-aXhQR6.channel-2QD9_O .layout-2DM8Md svg:not(.svg-2V3M55) {
+.selected-aXhQR6.channel-1Shao0 .layout-1qmrhw svg:not(.svg-2azL_l) {
 	filter: drop-shadow(1px 1px var(--textshadow));
 }
-.channel-2QD9_O .linkButtonIcon-Mlm5d6 {
+.channel-1Shao0 .linkButtonIcon-Mlm5d6 {
 	color: rgb(var(--fontwhite2));
 }
-.channel-2QD9_O .name-uJV0GL {
+.channel-1Shao0 .name-Qpc78p {
 	color: rgb(28,178,159);
 }
-.channel-2QD9_O .subtext-1RtU34 {
+.channel-1Shao0 .subtext-xfubwR {
 	color: #d25abe;
 }
-.channel-2QD9_O:hover .linkButtonIcon-Mlm5d6,
-.channel-2QD9_O.selected-aXhQR6 .linkButtonIcon-Mlm5d6 {
+.channel-1Shao0:hover .linkButtonIcon-Mlm5d6,
+.channel-1Shao0.selected-aXhQR6 .linkButtonIcon-Mlm5d6 {
 	color: rgb(var(--fontwhite1));
 }
-.channel-2QD9_O:hover .name-uJV0GL,
-.channel-2QD9_O.selected-aXhQR6 .name-uJV0GL {
+.channel-1Shao0:hover .name-uJV0GL,
+.channel-1Shao0.selected-aXhQR6 .name-uJV0GL {
 	color: rgb(var(--fontwhite1));
 }
-.channel-2QD9_O:hover .subtext-1RtU34,
-.channel-2QD9_O.selected-aXhQR6 .subtext-1RtU34 {
+.channel-1Shao0:hover .subtext-1RtU34,
+.channel-1Shao0.selected-aXhQR6 .subtext-1RtU34 {
 	color: rgb(var(--fontwhite2));
 }
 
@@ -709,6 +709,14 @@ body::before {
 }
 .panels-3wFtMD > *:not(:empty) ~ *:not(:empty) {
 	border-top: 1px solid rgba(var(--transparencycolor), .2);
+}
+
+.panels-3wFtMD {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    background-color: #28382fad;
+    z-index: 1;
 }
 
 .button-12Fmur.enabled-9OeuTA {								/* account/voice		panel button						*/
