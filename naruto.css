@@ -679,8 +679,9 @@ body::before {
 }
 .subtext-xfubwR {
 	color: #d25abe;
+	font-size; 12px;
 }
-.content-1U25dZ, .name-3Vmqxm {
+.name-3Vmqxm {
     white-space: nowrap;
     text-overflow: ellipsis;
     overflow: hidden;
