@@ -211,7 +211,7 @@ body,														/* body														*/
 	background-color: rgba(var(--transparencycolor), var(--guildchanneltransparency));
 }
 #app-mount .panels-3wFtMD {									/* account/voice		container							*/
-	background-color: rgba(var(--transparencycolor), calc(var(--guildchanneltransparency) / 1.5));
+	background-color: #28382fad, calc(var(--guildchanneltransparency) / 1.5));
 }
 #app-mount .container-1r6BKw.themed-ANHk51 {				/* channelheader		container							*/
 	background-color: rgba(var(--transparencycolor), var(--guildchanneltransparency));
@@ -708,7 +708,7 @@ body::before {
 	border: none;
 }
 .panels-3wFtMD > *:not(:empty) ~ *:not(:empty) {
-	border-top: 1px solid #28382fad;
+	border-top: 1px solid rgba(var(--transparencycolor), .2);
 }
 
 .button-12Fmur.enabled-9OeuTA {								/* account/voice		panel button						*/
