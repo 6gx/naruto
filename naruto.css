@@ -674,25 +674,12 @@ body::before {
 .channel-1Shao0 .linkButtonIcon-Mlm5d6 {
 	color: rgb(var(--fontwhite2));
 }
-.username-Qpc78p {
+.channel-1Shao0 .name-Qpc78p {
 	color: rgb(28,178,159);
 }
-.subtext-xfubwR {
+.channel-1Shao0 .subtext-xfubwR {
 	color: #d25abe;
 	font-size; 12px;
-}
-.name-3Vmqxm {
-    white-space: nowrap;
-    text-overflow: ellipsis;
-    overflow: hidden;
-    color: rgb(28,178,159);
-}
-.subText-OGOWMj {
-    margin-top: -2px;
-    white-space: nowrap;
-    text-overflow: ellipsis;
-    overflow: hidden;
-    color: #d25abe;
 }
 .channel-1Shao0:hover .linkButtonIcon-Mlm5d6,
 .channel-1Shao0.selected-aXhQR6 .linkButtonIcon-Mlm5d6 {
@@ -1845,39 +1832,39 @@ body::before {
 .tableHeader-2Ctu7Y {										/* tablerheader			border								*/
 	border-top-color: rgba(var(--fontwhite4), 0.5);
 }
-.peopleListItem-2nzedh {									/* peoples				row									*/
+.peopleListItem-u6dGxF {									/* peoples				row									*/
 	border-top-color: rgba(var(--fontwhite1), 0.1);
 }
-.peopleListItem-2nzedh .username-31C1TQ {					/* peoples				username							*/
+.peopleListItem-u6dGxF .username-3JLfHz {					/* peoples				username							*/
 	color: rgb(14,142,117);
 }
-.peopleListItem-2nzedh .discriminator-22Okc1 {				/* peoples				discriminator						*/
+.peopleListItem-u6dGxF .discriminator-22Okc1 {				/* peoples				discriminator						*/
 	color: rgb(var(--fontwhite4));
 }
-.peopleListItem-2nzedh .subtext-24R4-w {					/* peoples				subtext								*/
+.peopleListItem-u6dGxF .subtext-xfubwR {					/* peoples				subtext								*/
 	color: #822fd4;
 }
-.peopleListItem-2nzedh .actionButton-uPB8Fs {				/* peoples				actionbutton						*/
+.peopleListItem-u6dGxF .actionButton-uPB8Fs {				/* peoples				actionbutton						*/
 	background-color: rgba(var(--transparencycolor), 0.1);
 	color: rgb(var(--fontwhite3));
 }
-.peopleListItem-2nzedh:hover {
+.peopleListItem-u6dGxF:hover {
 	background-color: rgba(var(--transparencycolor), 0.3);
 }
-.peopleListItem-2nzedh:hover .username-31C1TQ {
+.peopleListItem-u6dGxF:hover .username-3JLfHz {
 	color: rgb(var(--fontwhite1));
 }
-.peopleListItem-2nzedh:hover .discriminator-22Okc1 {
+.peopleListItem-u6dGxF:hover .discriminator-22Okc1 {
 	color: rgb(var(--fontwhite3));
 }
-.peopleListItem-2nzedh:hover .subtext-24R4-w {
+.peopleListItem-u6dGxF:hover .subtext-24R4-w {
 	color: rgb(var(--fontwhite2));
 }
-.peopleListItem-2nzedh:hover .actionButton-uPB8Fs {
+.peopleListItem-u6dGxF:hover .actionButton-uPB8Fs {
 	background-color: rgba(var(--transparencycolor), 0.3);
 	color: rgb(var(--fontwhite2));
 }
-.peopleListItem-2nzedh .actionButton-uPB8Fs:hover {
+.peopleListItem-u6dGxF .actionButton-uPB8Fs:hover {
 	background-color: rgb(var(--accentcolor));
 	color: rgb(var(--fontwhite1));
 }
