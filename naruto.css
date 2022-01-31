@@ -674,11 +674,24 @@ body::before {
 .channel-1Shao0 .linkButtonIcon-Mlm5d6 {
 	color: rgb(var(--fontwhite2));
 }
-.channel-1Shao0 .name-Qpc78p {
+.username-Qpc78p {
 	color: rgb(28,178,159);
 }
-.channel-1Shao0 .subtext-xfubwR {
+.subtext-xfubwR {
 	color: #d25abe;
+}
+.content-1U25dZ, .name-3Vmqxm {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    color: rgb(28,178,159);
+}
+.subText-OGOWMj {
+    margin-top: -2px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    color: #d25abe;
 }
 .channel-1Shao0:hover .linkButtonIcon-Mlm5d6,
 .channel-1Shao0.selected-aXhQR6 .linkButtonIcon-Mlm5d6 {
