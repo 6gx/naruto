@@ -1462,101 +1462,73 @@ body::before {
 
 /* ----		6.3.	TEXTAREA						---- */
 
-.form-2fGMdU {												/* textarea				form								*/
+.form-3gdLxP {
 	padding-top: 0;
 	margin-top: 0;
 }
-.form-2fGMdU::before {
+.form-3gdLxP {												/* textarea				form								*/
+	background: rgba(var(--transparencycolor), var(--chatinputtransparency));
+	margin-top: 0;
+	padding-top: 8px;
+	border-top-right-radius: calc(8px * (1 - (var(--memberlisttransparency) / (var(--memberlisttransparency) + 0.00000000000000000000001))));
+	border-top-left-radius: calc(8px * (1 - (var(--guildchanneltransparency) / (var(--guildchanneltransparency) + 0.00000000000000000000001))));
+}
+.threadSidebarOpen-1LSXvU .form-3gdLxP {
+	border-top-right-radius: 8px;
+}
+.form-3gdLxP::before {
 	display: none;
 }
 
-.channelTextArea-rNsIhG {									/* textarea				channeltextarea						*/
+.channelTextArea-1FufC0 {									/* textarea				channeltextarea						*/
 	background-color: transparent;
-	border-top-color: rgba(var(--fontwhite1), 0.1);
+	border-top-color: var(--background-modifier-accent);
 }
 
-.container-2fRDfG {											/* textarea				reply								*/
-	background: rgba(var(--transparencycolor), 0.3);
+.container-A2jo65 {											/* textarea				reply								*/
+	background: rgba(var(--transparencycolor), .3);
 	border: none;
-	border-bottom: 1px solid rgba(var(--fontwhite1), 0.1);
+	border-bottom: 1px solid var(--background-modifier-accent);
 }
 
-.scrollableContainer-2NUZem {								/* textarea				container							*/
-	background-color: rgba(var(--transparencycolor), 0.3);
+.scrollableContainer-15eg7h {								/* textarea				container							*/
+	background-color: rgba(var(--transparencycolor), .3);
 }
 
-.attachButtonPlus-jWVFah {									/* textarea				attachbuttoninner					*/
-	fill: rgb(var(--fontwhite3));
-}
-.attachButton-2WznTc:hover .attachButtonPlus-jWVFah {
-	fill: rgb(var(--fontwhite2));
-}
-.attachButton-2WznTc:active .attachButtonPlus-jWVFah {
-	fill: rgb(var(--fontwhite1));
-}
-.attachWrapper-2TRKBi {										/* textarea				attachdivider						*/
-	border-color: rgb(var(--fontwhite3));
-}
-
-#app-mount .textArea-12jD-V {								/* textarea				textarea							*/
-	color: rgb(var(--fontwhite1));
-}
-#app-mount .textArea-12jD-V::placeholder {
-	color: rgb(var(--fontwhite4));
-}
-.placeholder-37qJjk,
-.slateTextArea-1Mkdgw .hljs-comment,
-.slateTextArea-1Mkdgw .hljs-quote {
-	color: rgb(var(--fontwhite4));
-}
-
-.button-3AYNKb {											/* textarea				buttons								*/
-	color: rgb(var(--fontwhite3));
-}
-.button-3AYNKb:hover,
-.buttonWrapper-1ZmCpA:hover .icon-3D60ES {
-	color: rgb(var(--fontwhite2));
-}
-.active-23Nm0T .icon-3D60ES,
-.active-23Nm0T:hover .icon-3D60ES {
-	color: rgb(var(--fontwhite1));
-}
-.sprite-2iCowe {											/* textarea				emojibutton							*/
+.sprite-2lxwfc {											/* textarea				emojibutton							*/
 	transform: none !important;
 }
 
-.base-gE7OpD {												/* textarea				typingusers							*/
-	color: rgb(var(--fontwhite1));
+.wrapper-2SplAX {											/* textarea				placeholder							*/
+	background-color: rgba(var(--transparencycolor), .3);
+	color: var(--text-normal);
 }
 
-.wrapper-39oAo3 {											/* textarea				placeholder							*/
-	background-color: rgba(var(--transparencycolor), 0.3);
-	color: rgb(var(--fontwhite2));
-}
-
-.toolbar-2bjZV7 {											/* textarea				formattoolbar						*/
+.toolbar-37BrJ5 {											/* textarea				formattoolbar						*/
 	background-color: rgb(var(--accentcolor));
 }
-.toolbar-2bjZV7::before {
+.toolbar-37BrJ5::before {
 	border-top-color: rgb(var(--accentcolor));
 }
-.divider-24xeUg {											/* textarea				formattoolbardivider				*/
-	border-left-color: rgba(var(--fontwhite1), 0.1);
+.divider-3NY7PF {											/* textarea				formattoolbar divider				*/
+	border-left-color: hsla(0, 0%,100%, .1);
 }
-.active-2HPddW,												/* textarea				buttonactive						*/
-.hover-28QbSq:hover {										/* textarea				buttonhover							*/
-	background-color: rgba(var(--fontwhite1), 0.2);
+.active-136ioF,												/* textarea				buttonactive						*/
+.hover-3OQb9Y:hover {										/* textarea				buttonhover							*/
+	background-color: hsla(0, 0%, 100%, .2);
 }
-.icon-KgGMGo {												/* textarea				buttonicon							*/
-	color: rgb(var(--fontwhite2));
+.icon-3g7qdA {												/* textarea				buttonicon							*/
+	color: #fff;
+	opacity: .7;
 }
-.active-2HPddW .icon-KgGMGo,
-.hover-28QbSq:hover .icon-KgGMGo {
-	color: rgb(var(--fontwhite1));
+.active-136ioF .icon-3g7qdA,
+.hover-3OQb9Y:hover .icon-3g7qdA {
+	color: #fff;
+	opacity: 1;
 }
 
-#app-mount .pill-2pQByF {									/* textarea				command query pill					*/
-	background-color: rgba(var(--transparencycolor), 0.5);
+#app-mount .pill-1HLSrc {									/* textarea				command query pill					*/
+	background-color: rgba(var(--transparencycolor), .5);
 	border-radius: 5px;
 }
 
