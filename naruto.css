@@ -210,7 +210,7 @@ body,														/* body														*/
 #app-mount .sidebar-2K8pFh {								/* channels				container							*/
 	background-color: rgba(var(--transparencycolor), var(--guildchanneltransparency));
 }
-#app-mount .panels-j1Uci_ {									/* account/voice		container							*/
+#app-mount .panels-3wFtMD {									/* account/voice		container							*/
 	background-color: rgba(var(--transparencycolor), calc(var(--guildchanneltransparency) / 1.5));
 }
 #app-mount .container-1r6BKw.themed-ANHk51 {				/* channelheader		container							*/
@@ -703,52 +703,39 @@ body::before {
 
 /* ----		5.4.	ACCOUNT/VOICE/GOLIVE			---- */
 
-.panels-j1Uci_ > * {										/* account/voice		inner								*/
+.panels-3wFtMD > *,											/* account/voice		inner								*/
+.panels-3wFtMD .wrapper-3Hk9OB > * {						/* account/voice		inner								*/
 	border: none;
 }
-.panels-j1Uci_ > * + * {
-	border-top: 1px solid rgba(var(--transparencycolor), 0.2);
+.panels-3wFtMD > *:not(:empty) ~ *:not(:empty) {
+	border-top: 1px solid #28382fad;
 }
 
-.title-eS5yk3 {												/* account/voice		title								*/
-	color: rgb(var(--fontwhite1));
-}
-.subtext-3CDbHg {											/* account/voice		subtext								*/
-	color: rgb(var(--fontwhite3));
-}
-.button-14-BFJ {
-	color: rgb(var(--fontwhite3));
-}
-.button-14-BFJ.enabled-2cQ-u7,								/* account/voice		buttons								*/
-.button-14-BFJ.enabled-2cQ-u7:hover {
-	color: rgb(var(--fontwhite1));
-}
-.button-14-BFJ.enabled-2cQ-u7 {
+.button-12Fmur.enabled-9OeuTA {								/* account/voice		panel button						*/
 	opacity: 0.7;
 }
-.button-14-BFJ.enabled-2cQ-u7:hover {
+.button-12Fmur.enabled-9OeuTA:hover {
 	opacity: 1;
 	background-color: rgb(var(--accentcolor));
 }
-.button-14-BFJ.enabled-2cQ-u7:hover svg {
+.button-12Fmur.enabled-9OeuTA:hover svg {
 	filter: drop-shadow(1px 1px var(--textshadow));
 }
-.button-1YfofB.buttonColor-7qQbGO {
-	background-color: rgba(var(--transparencycolor), 0.2);
+.button-1EGGcP.buttonColor-3bP3fX {
+	background-color: rgba(var(--transparencycolor), .2);
 }
-.button-1YfofB.buttonColor-7qQbGO:hover {
-	background-color: rgba(var(--transparencycolor), 0.4);
+.button-1EGGcP.buttonColor-3bP3fX:hover {
+	background-color: rgba(var(--transparencycolor), .4);
 }
-.button-1YfofB.buttonColor-7qQbGO.buttonActive-3FrkXp,
-.button-1YfofB.buttonColor-7qQbGO.buttonActive-3FrkXp:hover {
+.button-1EGGcP.buttonColor-3bP3fX.buttonActive-Uc1jHx,
+.button-1EGGcP.buttonColor-3bP3fX.buttonActive-Uc1jHx:hover {
 	background-color: rgb(var(--accentcolor));
 	text-shadow: 1px 1px var(--textshadow);
 }
-.button-1YfofB.buttonColor-7qQbGO.buttonActive-3FrkXp svg,
-.button-1YfofB.buttonColor-7qQbGO.buttonActive-3FrkXp:hover svg {
+.button-1EGGcP.buttonColor-3bP3fX.buttonActive-Uc1jHx svg,
+.button-1EGGcP.buttonColor-3bP3fX.buttonActive-Uc1jHx:hover svg {
 	filter: drop-shadow(1px 1px var(--textshadow));
 }
-
 
 /* ~~~~		6.		CHAT							~~~~ */
 
