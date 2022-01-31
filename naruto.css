@@ -674,12 +674,24 @@ body::before {
 .channel-1Shao0 .linkButtonIcon-Mlm5d6 {
 	color: rgb(var(--fontwhite2));
 }
-.channel-1Shao0 .name-Qpc78p {
+.channel-1Shao0 .name-3Vmqxm {
 	color: rgb(28,178,159);
 }
-.channel-1Shao0 .subtext-xfubwR {
-	color: #d25abe;
-	font-size; 12px;
+.channel-1Shao0 .subText-OGOWMj {
+    margin-top: -2px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    color: #d25abe;
+}
+.activityText-1rR-8O {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    color: #2c8791;
 }
 .channel-1Shao0:hover .linkButtonIcon-Mlm5d6,
 .channel-1Shao0.selected-aXhQR6 .linkButtonIcon-Mlm5d6 {
